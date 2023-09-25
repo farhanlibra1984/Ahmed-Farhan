@@ -1,0 +1,34 @@
+[{
+    "id": 1,
+    "statement": "which is the national game of pakistan",
+    "option": [
+        "hockey",
+     "criket",
+      "football",
+       "tv"],
+       "answer": 1
+    
+},
+{
+    "id": 2,
+    "statement": "which is the national language of pakistan",
+    "option": [
+        "URDU",
+     "ENGLISH",
+      "PUNJI",
+       "SINDHI"],
+       "answer":1
+    
+},
+{
+    "id": 3,
+    "statement": "which is the capital of pakistan",
+    "option": [
+        "lahore",
+     "Islamabad",
+      "Karachi",
+       "Pindi"],
+       "answer":2
+    
+}
+]
