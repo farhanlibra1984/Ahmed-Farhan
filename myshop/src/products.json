@@ -1,0 +1,60 @@
+[
+    {
+        "id":1,
+        "title":"Oil",
+        "image":"images/oil.jpg",
+        "price":600,
+        "desc":"Dalda Oil with 5% discount"
+    },
+    {
+        "id":2,
+        "title":"Tea",
+        "image":"images/ttea.jpg",
+        "price":600,
+        "desc":"Tapal Tea with 5% discount"
+    },
+    {
+        "id":3,
+        "title":"Rice",
+        "image":"images/rice.jpg",
+        "price":600,
+        "desc":"rice with 5% discount"
+    },
+    {
+        "id":4,
+        "title":"sweets",
+        "image":"images/sweets.jpg",
+        "price":600,
+        "desc":"on all items 5% discount"
+    },
+    {
+        "id":5,
+        "title":"all items",
+        "image":"images/mix.jpg",
+        "price":600,
+        "desc":"on all 5% discount"
+    },
+    {
+        "id":6,
+        "title":"Cooking Items",
+        "image":"images/cookingitem.jpg",
+        "price":600,
+        "desc":"COOKING ITEM with 5% discount"
+    },
+    {
+        "id":7,
+        "title":"GAMES CD",
+        "image":"images/gamescd.jpg",
+        "price":600,
+        "desc":"CD with 5% discount"
+    },
+    {
+        "id":8,
+        "title":"Car ShowRoom Game",
+        "image":"images/racinggame.jpg",
+        "price":600,
+        "desc":"rice with 5% discount"
+    }
+]
+
+
